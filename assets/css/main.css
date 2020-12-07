@@ -2475,6 +2475,7 @@ input, select, textarea {
 		}
 
 		dl.alt dd {
+			padding-bottom: 10px;
 			display: block;
 			margin: 0;
 		}
@@ -3713,9 +3714,12 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#footer {
-				padding: 4em 4em 2em 4em ;
+				padding: 4em 4em 2em 4em;
 			}
 
+			#footer > section {
+				text-align: center;
+			}
 		}
 
 		@media screen and (max-width: 980px) {
