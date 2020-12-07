@@ -3702,6 +3702,7 @@ input, select, textarea {
 		#footer > * {
 			width: calc(50% - 2em);
 			margin-left: 2em;
+			text-align: center;
 		}
 
 		#footer .copyright {
@@ -3715,10 +3716,6 @@ input, select, textarea {
 
 			#footer {
 				padding: 4em 4em 2em 4em;
-			}
-
-			#footer > section {
-				text-align: center;
 			}
 		}
 
