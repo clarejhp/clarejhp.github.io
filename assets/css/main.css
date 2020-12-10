@@ -137,6 +137,11 @@ input, select, textarea {
 				font-size: 14pt;
 			}
 
+			iframe {
+				width: 200;
+				height 113;
+			}
+
 		}
 
 		@media screen and (max-width: 1280px) {
