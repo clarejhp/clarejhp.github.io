@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+iframe {
+	border: 4px solid #e37682;
+	border-radius: 1%;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -135,11 +140,6 @@ input, select, textarea {
 
 			body, input, select, textarea {
 				font-size: 14pt;
-			}
-
-			iframe {
-				width: 200px;
-				height: 113px;
 			}
 
 		}
