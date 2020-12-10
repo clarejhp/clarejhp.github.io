@@ -33,11 +33,6 @@ body {
 	line-height: 1;
 }
 
-iframe {
-	border: 4px solid #e37682;
-	border-radius: 1%;
-}
-
 ol, ul {
 	list-style: none;
 }
